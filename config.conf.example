@@ -1,0 +1,10 @@
+# 这是Bully Algorithm的配置文件，每一行代表一个进程的配置信息。
+# uid任意数字;port通常取大于1024的端口号;status取值集合{NORMAL,CRASH};role取值集合{LEADER,FOLLOWER}
+# 请指定一个leader作为初始。
+# '#'为配置文件的一行添加注释。
+# 本示例文件给出了5个进程，其中第一个是leader。 
+1,5000,NORMAL,LEADER
+2,5001,NORMAL,FOLLOWER
+3,5002,NORMAL,FOLLOWER
+4,5003,NORMAL,FOLLOWER
+5,5004,NORMAL,FOLLOWER
