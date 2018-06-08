@@ -2,9 +2,9 @@
 Java实现的一种选举算法——欺负算法（Bully Algorithm），模拟了多进程Follower之间选举出Leader的过程。
 
 # System Requirements
-1. Windows,Linux流行版本。
-2. JDK1.8及以上。
-3. 不需要其他第三方库。
+1. Windows,Linux流行版本
+2. JDK1.8及以上
+3. 不需要其他第三方库
 
 # Quick Start
 请在项目目录下建立config.conf文件作为选举算法的配置文件。配置文件指明了每个进程的uid,port,status,role。请参考config.conf.example文件的格式要求。
