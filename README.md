@@ -21,7 +21,7 @@ Java实现的一种选举算法——欺负算法（Bully Algorithm），模拟�
 
 # TODO
 某些异常被捕获处理，但不太友好地显示出来，需要进一步处理；
-Result消息确认会更好适应算法。
+可以设计Result消息的回复消息。
 
 # Link
 https://github.com/jackwhitexr/Election-Algorithm
