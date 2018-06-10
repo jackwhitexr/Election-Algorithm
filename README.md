@@ -1,5 +1,5 @@
 # Election Algorithm
-Java实现的一种选举算法——欺负算法（Bully Algorithm），模拟了多进程Follower之间选举出Leader的过程。
+Java实现的一种选举算法——欺负算法（Bully Algorithm），模拟了多个进程Follower之间选举出Leader的过程。
 
 # System Requirements
 1. Windows,Linux流行版本
